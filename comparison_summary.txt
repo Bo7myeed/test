@@ -1,0 +1,15 @@
+DIRECTORY COMPARISON SUMMARY
+==================================================
+
+Directory 1 (ModelEngine): 559 files
+Directory 2 (ModelEngine2): 131 files
+Identical files: 128
+Different files: 3
+Files only in ModelEngine: 428
+Files only in ModelEngine2: 0
+
+Total differences found: 431
+
+CONCLUSION: The directories have significant differences.
+- ModelEngine contains many additional files not present in ModelEngine2
+- There are differences in file content for some shared files
