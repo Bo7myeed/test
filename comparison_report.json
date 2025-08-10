@@ -1,0 +1,1886 @@
+{
+  "comparison_info": {
+    "directory1": "ModelEngine",
+    "directory2": "ModelEngine2",
+    "timestamp": "2025-08-10T02:37:18.380376"
+  },
+  "summary": {
+    "total_files_dir1": 559,
+    "total_files_dir2": 131,
+    "identical_files": 128,
+    "different_files": 3,
+    "only_in_dir1": 428,
+    "only_in_dir2": 0
+  },
+  "files_only_in_dir1": [
+    {
+      "path": "resource pack/assets/modelengine/items/icon/beta_games_logo.json",
+      "size": 157
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/a.json",
+      "size": 143
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/a2.json",
+      "size": 144
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/aa.json",
+      "size": 144
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/back_left_foot.json",
+      "size": 156
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/back_left_leg.json",
+      "size": 155
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/back_left_shin.json",
+      "size": 156
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/back_right_foot.json",
+      "size": 157
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/back_right_leg.json",
+      "size": 156
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/back_right_shin.json",
+      "size": 157
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/body2.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/body3.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/c.json",
+      "size": 143
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/close_terminator.json",
+      "size": 158
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/close_terminator2.json",
+      "size": 159
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/close_terminator3.json",
+      "size": 159
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/close_terminator4.json",
+      "size": 159
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/d.json",
+      "size": 143
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/dangit.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/dungeons-skull.json",
+      "size": 156
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/e.json",
+      "size": 143
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/e2.json",
+      "size": 144
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/front_left_foot.json",
+      "size": 157
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/front_left_leg.json",
+      "size": 156
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/front_left_shin.json",
+      "size": 157
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/front_right_foot.json",
+      "size": 158
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/front_right_leg.json",
+      "size": 157
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/front_right_shin.json",
+      "size": 158
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/head2.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/head3.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/i.json",
+      "size": 143
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/i2.json",
+      "size": 144
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/island.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/jaw.json",
+      "size": 145
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/l.json",
+      "size": 143
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/l2.json",
+      "size": 144
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/l3.json",
+      "size": 144
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/leason.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/left_arm.json",
+      "size": 150
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/left_leg.json",
+      "size": 150
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/left_wing.json",
+      "size": 151
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/left_wing_tip.json",
+      "size": 155
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/m.json",
+      "size": 143
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/mirrored.json",
+      "size": 150
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/n.json",
+      "size": 143
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/neck1.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/neck2.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/neck3.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/neck4.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/neck5.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/o.json",
+      "size": 143
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/o2.json",
+      "size": 144
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/o3.json",
+      "size": 144
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/open_terminator.json",
+      "size": 157
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/open_terminator2.json",
+      "size": 158
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/open_terminator3.json",
+      "size": 158
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/open_terminator4.json",
+      "size": 158
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/r.json",
+      "size": 143
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/right_arm.json",
+      "size": 151
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/right_leg.json",
+      "size": 151
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/right_wing.json",
+      "size": 152
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/right_wing_tip.json",
+      "size": 156
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/s.json",
+      "size": 143
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/season.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/seasssson.json",
+      "size": 151
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/space.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/space2.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/stop.json",
+      "size": 146
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/sword.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/t.json",
+      "size": 143
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/tail1.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/tail10.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/tail11.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/tail12.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/tail2.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/tail3.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/tail4.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/tail5.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/tail6.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/tail7.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/tail8.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/tail9.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/v.json",
+      "size": 143
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/valoria.json",
+      "size": 149
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/w.json",
+      "size": 143
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/last/welcome_to.json",
+      "size": 152
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/a.json",
+      "size": 144
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/a2.json",
+      "size": 145
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/aa.json",
+      "size": 145
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/back_left_foot.json",
+      "size": 157
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/back_left_leg.json",
+      "size": 156
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/back_left_shin.json",
+      "size": 157
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/back_right_foot.json",
+      "size": 158
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/back_right_leg.json",
+      "size": 157
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/back_right_shin.json",
+      "size": 158
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/body2.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/body3.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/c.json",
+      "size": 144
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/close_terminator.json",
+      "size": 159
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/close_terminator2.json",
+      "size": 160
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/close_terminator3.json",
+      "size": 160
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/close_terminator4.json",
+      "size": 160
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/d.json",
+      "size": 144
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/dangit.json",
+      "size": 149
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/dungeons-skull.json",
+      "size": 157
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/e.json",
+      "size": 144
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/e2.json",
+      "size": 145
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/front_left_foot.json",
+      "size": 158
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/front_left_leg.json",
+      "size": 157
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/front_left_shin.json",
+      "size": 158
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/front_right_foot.json",
+      "size": 159
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/front_right_leg.json",
+      "size": 158
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/front_right_shin.json",
+      "size": 159
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/head2.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/head3.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/i.json",
+      "size": 144
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/i2.json",
+      "size": 145
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/island.json",
+      "size": 149
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/jaw.json",
+      "size": 146
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/l.json",
+      "size": 144
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/l2.json",
+      "size": 145
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/l3.json",
+      "size": 145
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/leason.json",
+      "size": 149
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/left_arm.json",
+      "size": 151
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/left_leg.json",
+      "size": 151
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/left_wing.json",
+      "size": 152
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/left_wing_tip.json",
+      "size": 156
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/m.json",
+      "size": 144
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/mirrored.json",
+      "size": 151
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/n.json",
+      "size": 144
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/neck1.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/neck2.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/neck3.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/neck4.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/neck5.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/o.json",
+      "size": 144
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/o2.json",
+      "size": 145
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/o3.json",
+      "size": 145
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/open_terminator.json",
+      "size": 158
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/open_terminator2.json",
+      "size": 159
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/open_terminator3.json",
+      "size": 159
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/open_terminator4.json",
+      "size": 159
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/r.json",
+      "size": 144
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/right_arm.json",
+      "size": 152
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/right_leg.json",
+      "size": 152
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/right_wing.json",
+      "size": 153
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/right_wing_tip.json",
+      "size": 157
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/s.json",
+      "size": 144
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/season.json",
+      "size": 149
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/seasssson.json",
+      "size": 152
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/space.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/space2.json",
+      "size": 149
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/stop.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/sword.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/t.json",
+      "size": 144
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/tail1.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/tail10.json",
+      "size": 149
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/tail11.json",
+      "size": 149
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/tail12.json",
+      "size": 149
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/tail2.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/tail3.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/tail4.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/tail5.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/tail6.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/tail7.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/tail8.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/tail9.json",
+      "size": 148
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/v.json",
+      "size": 144
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/valoria.json",
+      "size": 150
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/w.json",
+      "size": 144
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/tough/welcome_to.json",
+      "size": 153
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/a.json",
+      "size": 146
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/a2.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/aa.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/c.json",
+      "size": 146
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/close_terminator.json",
+      "size": 161
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/close_terminator2.json",
+      "size": 162
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/close_terminator3.json",
+      "size": 162
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/close_terminator4.json",
+      "size": 162
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/d.json",
+      "size": 146
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/dangit.json",
+      "size": 151
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/e.json",
+      "size": 146
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/e2.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/fd68bbca-3319-9737-b2d4-9a429b97e085.json",
+      "size": 181
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/i.json",
+      "size": 146
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/i2.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/island.json",
+      "size": 151
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/l.json",
+      "size": 146
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/l2.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/l3.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/leason.json",
+      "size": 151
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/m.json",
+      "size": 146
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/n.json",
+      "size": 146
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/o.json",
+      "size": 146
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/o2.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/o3.json",
+      "size": 147
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/open_terminator.json",
+      "size": 160
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/open_terminator2.json",
+      "size": 161
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/open_terminator3.json",
+      "size": 161
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/open_terminator4.json",
+      "size": 161
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/r.json",
+      "size": 146
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/s.json",
+      "size": 146
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/season.json",
+      "size": 151
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/seasssson.json",
+      "size": 154
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/space.json",
+      "size": 150
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/space2.json",
+      "size": 151
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/stop.json",
+      "size": 149
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/t.json",
+      "size": 146
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/v.json",
+      "size": 146
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/valoria.json",
+      "size": 152
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/w.json",
+      "size": 146
+    },
+    {
+      "path": "resource pack/assets/modelengine/items/valoria/welcome_to.json",
+      "size": 155
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/icon/beta_games_logo.json",
+      "size": 935445
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/a.json",
+      "size": 841
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/a2.json",
+      "size": 840
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/aa.json",
+      "size": 842
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/back_left_foot.json",
+      "size": 981
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/back_left_leg.json",
+      "size": 955
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/back_left_shin.json",
+      "size": 982
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/back_right_foot.json",
+      "size": 981
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/back_right_leg.json",
+      "size": 955
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/back_right_shin.json",
+      "size": 982
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/body2.json",
+      "size": 992
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/body3.json",
+      "size": 2681
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/c.json",
+      "size": 833
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/close_terminator.json",
+      "size": 948
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/close_terminator2.json",
+      "size": 944
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/close_terminator3.json",
+      "size": 944
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/close_terminator4.json",
+      "size": 941
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/d.json",
+      "size": 858
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/dangit.json",
+      "size": 838
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/dungeons-skull.json",
+      "size": 5951
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/e.json",
+      "size": 858
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/e2.json",
+      "size": 858
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/front_left_foot.json",
+      "size": 964
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/front_left_leg.json",
+      "size": 951
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/front_left_shin.json",
+      "size": 995
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/front_right_foot.json",
+      "size": 964
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/front_right_leg.json",
+      "size": 951
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/front_right_shin.json",
+      "size": 995
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/head2.json",
+      "size": 985
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/head3.json",
+      "size": 2624
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/i.json",
+      "size": 844
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/i2.json",
+      "size": 845
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/island.json",
+      "size": 992
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/jaw.json",
+      "size": 1000
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/l.json",
+      "size": 862
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/l2.json",
+      "size": 858
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/l3.json",
+      "size": 858
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/leason.json",
+      "size": 854
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/left_arm.json",
+      "size": 1008
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/left_leg.json",
+      "size": 999
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/left_wing.json",
+      "size": 1166
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/left_wing_tip.json",
+      "size": 1188
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/m.json",
+      "size": 838
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/mirrored.json",
+      "size": 1537
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/n.json",
+      "size": 852
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/neck1.json",
+      "size": 1544
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/neck2.json",
+      "size": 1542
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/neck3.json",
+      "size": 1542
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/neck4.json",
+      "size": 1544
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/neck5.json",
+      "size": 1542
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/o.json",
+      "size": 842
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/o2.json",
+      "size": 833
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/o3.json",
+      "size": 840
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/open_terminator.json",
+      "size": 928
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/open_terminator2.json",
+      "size": 927
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/open_terminator3.json",
+      "size": 924
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/open_terminator4.json",
+      "size": 921
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/r.json",
+      "size": 848
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/right_arm.json",
+      "size": 1000
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/right_leg.json",
+      "size": 986
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/right_wing.json",
+      "size": 1166
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/right_wing_tip.json",
+      "size": 1182
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/s.json",
+      "size": 859
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/season.json",
+      "size": 980
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/seasssson.json",
+      "size": 855
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/space.json",
+      "size": 858
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/space2.json",
+      "size": 860
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/stop.json",
+      "size": 846
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/sword.json",
+      "size": 18841
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/t.json",
+      "size": 846
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/tail1.json",
+      "size": 1549
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/tail10.json",
+      "size": 1557
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/tail11.json",
+      "size": 1551
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/tail12.json",
+      "size": 1554
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/tail2.json",
+      "size": 1557
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/tail3.json",
+      "size": 1549
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/tail4.json",
+      "size": 1551
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/tail5.json",
+      "size": 1557
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/tail6.json",
+      "size": 1551
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/tail7.json",
+      "size": 1554
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/tail8.json",
+      "size": 1549
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/tail9.json",
+      "size": 1551
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/v.json",
+      "size": 846
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/valoria.json",
+      "size": 991
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/w.json",
+      "size": 858
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/last/welcome_to.json",
+      "size": 984
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/a.json",
+      "size": 841
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/a2.json",
+      "size": 840
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/aa.json",
+      "size": 842
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/back_left_foot.json",
+      "size": 981
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/back_left_leg.json",
+      "size": 955
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/back_left_shin.json",
+      "size": 982
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/back_right_foot.json",
+      "size": 981
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/back_right_leg.json",
+      "size": 955
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/back_right_shin.json",
+      "size": 982
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/body2.json",
+      "size": 992
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/body3.json",
+      "size": 2681
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/c.json",
+      "size": 833
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/close_terminator.json",
+      "size": 948
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/close_terminator2.json",
+      "size": 944
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/close_terminator3.json",
+      "size": 944
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/close_terminator4.json",
+      "size": 941
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/d.json",
+      "size": 858
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/dangit.json",
+      "size": 838
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/dungeons-skull.json",
+      "size": 5951
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/e.json",
+      "size": 858
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/e2.json",
+      "size": 858
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/front_left_foot.json",
+      "size": 964
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/front_left_leg.json",
+      "size": 951
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/front_left_shin.json",
+      "size": 995
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/front_right_foot.json",
+      "size": 964
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/front_right_leg.json",
+      "size": 951
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/front_right_shin.json",
+      "size": 995
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/head2.json",
+      "size": 985
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/head3.json",
+      "size": 2624
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/i.json",
+      "size": 844
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/i2.json",
+      "size": 845
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/island.json",
+      "size": 992
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/jaw.json",
+      "size": 1000
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/l.json",
+      "size": 862
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/l2.json",
+      "size": 858
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/l3.json",
+      "size": 858
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/leason.json",
+      "size": 854
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/left_arm.json",
+      "size": 1008
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/left_leg.json",
+      "size": 999
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/left_wing.json",
+      "size": 1166
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/left_wing_tip.json",
+      "size": 1188
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/m.json",
+      "size": 838
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/mirrored.json",
+      "size": 1537
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/n.json",
+      "size": 852
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/neck1.json",
+      "size": 1544
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/neck2.json",
+      "size": 1542
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/neck3.json",
+      "size": 1542
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/neck4.json",
+      "size": 1544
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/neck5.json",
+      "size": 1542
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/o.json",
+      "size": 842
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/o2.json",
+      "size": 833
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/o3.json",
+      "size": 840
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/open_terminator.json",
+      "size": 928
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/open_terminator2.json",
+      "size": 927
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/open_terminator3.json",
+      "size": 924
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/open_terminator4.json",
+      "size": 921
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/r.json",
+      "size": 848
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/right_arm.json",
+      "size": 1000
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/right_leg.json",
+      "size": 986
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/right_wing.json",
+      "size": 1166
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/right_wing_tip.json",
+      "size": 1182
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/s.json",
+      "size": 859
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/season.json",
+      "size": 980
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/seasssson.json",
+      "size": 855
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/space.json",
+      "size": 858
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/space2.json",
+      "size": 860
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/stop.json",
+      "size": 846
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/sword.json",
+      "size": 18841
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/t.json",
+      "size": 846
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/tail1.json",
+      "size": 1549
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/tail10.json",
+      "size": 1557
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/tail11.json",
+      "size": 1551
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/tail12.json",
+      "size": 1554
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/tail2.json",
+      "size": 1557
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/tail3.json",
+      "size": 1549
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/tail4.json",
+      "size": 1551
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/tail5.json",
+      "size": 1557
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/tail6.json",
+      "size": 1551
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/tail7.json",
+      "size": 1554
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/tail8.json",
+      "size": 1549
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/tail9.json",
+      "size": 1551
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/v.json",
+      "size": 846
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/valoria.json",
+      "size": 991
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/w.json",
+      "size": 858
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/tough/welcome_to.json",
+      "size": 984
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/a.json",
+      "size": 840
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/a2.json",
+      "size": 838
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/aa.json",
+      "size": 840
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/c.json",
+      "size": 837
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/close_terminator.json",
+      "size": 948
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/close_terminator2.json",
+      "size": 972
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/close_terminator3.json",
+      "size": 972
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/close_terminator4.json",
+      "size": 921
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/d.json",
+      "size": 858
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/dangit.json",
+      "size": 818
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/e.json",
+      "size": 859
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/e2.json",
+      "size": 859
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/fd68bbca-3319-9737-b2d4-9a429b97e085.json",
+      "size": 839
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/i.json",
+      "size": 844
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/i2.json",
+      "size": 843
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/island.json",
+      "size": 1010
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/l.json",
+      "size": 859
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/l2.json",
+      "size": 855
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/l3.json",
+      "size": 859
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/leason.json",
+      "size": 838
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/m.json",
+      "size": 839
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/n.json",
+      "size": 850
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/o.json",
+      "size": 838
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/o2.json",
+      "size": 837
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/o3.json",
+      "size": 838
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/open_terminator.json",
+      "size": 928
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/open_terminator2.json",
+      "size": 928
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/open_terminator3.json",
+      "size": 928
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/open_terminator4.json",
+      "size": 901
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/r.json",
+      "size": 848
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/s.json",
+      "size": 856
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/season.json",
+      "size": 961
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/seasssson.json",
+      "size": 839
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/space.json",
+      "size": 859
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/space2.json",
+      "size": 859
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/stop.json",
+      "size": 846
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/t.json",
+      "size": 846
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/v.json",
+      "size": 845
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/valoria.json",
+      "size": 988
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/w.json",
+      "size": 861
+    },
+    {
+      "path": "resource pack/assets/modelengine/models/valoria/welcome_to.json",
+      "size": 1012
+    },
+    {
+      "path": "resource pack/assets/modelengine/textures/entity/beta_games_logo.png",
+      "size": 330657
+    },
+    {
+      "path": "resource pack/assets/modelengine/textures/entity/dragon.png",
+      "size": 7847
+    },
+    {
+      "path": "resource pack/assets/modelengine/textures/entity/skin.png",
+      "size": 1017
+    },
+    {
+      "path": "resource pack/assets/modelengine/textures/entity/valoria.png",
+      "size": 17613
+    }
+  ],
+  "files_only_in_dir2": [],
+  "files_with_different_content": [
+    {
+      "path": ".data/cache.json",
+      "dir1_size": 1383,
+      "dir2_size": 946,
+      "dir1_hash": "cceb9306d9276423a919be5719a7126f",
+      "dir2_hash": "43f6ff51821e3591bb60543f2b8911ec",
+      "has_text_diff": true
+    },
+    {
+      "path": "resource pack.zip",
+      "dir1_size": 692061,
+      "dir2_size": 94832,
+      "dir1_hash": "51481a111a00b86443553435f16e4497",
+      "dir2_hash": "e7c6269787bd89b2a81321c27ce09dd7",
+      "has_text_diff": false
+    },
+    {
+      "path": "resource pack/assets/minecraft/models/item/leather_horse_armor.json",
+      "dir1_size": 3653,
+      "dir2_size": 3653,
+      "dir1_hash": "5116f77f8711160580a884c9a18ab5c6",
+      "dir2_hash": "665b4487b28012f0296957a4aa79f5fa",
+      "has_text_diff": true
+    }
+  ],
+  "identical_files": [
+    "blueprints/lesgo.bbmodel",
+    "config.yml",
+    "resource pack/1_21_2/assets/minecraft/shaders/core/rendertype_entity_translucent.fsh",
+    "resource pack/1_21_2/assets/minecraft/shaders/core/rendertype_entity_translucent.json",
+    "resource pack/1_21_2/assets/minecraft/shaders/core/rendertype_entity_translucent.vsh",
+    "resource pack/1_21_5/assets/minecraft/items/player_head.json",
+    "resource pack/1_21_5/assets/minecraft/shaders/core/entity.fsh",
+    "resource pack/1_21_5/assets/minecraft/shaders/core/entity.vsh",
+    "resource pack/assets/minecraft/atlases/blocks.json",
+    "resource pack/assets/minecraft/items/player_head.json",
+    "resource pack/assets/minecraft/models/custom/entities/player/head.json",
+    "resource pack/assets/minecraft/models/custom/entities/player/left_arm.json",
+    "resource pack/assets/minecraft/models/custom/entities/player/left_leg.json",
+    "resource pack/assets/minecraft/models/custom/entities/player/right_arm.json",
+    "resource pack/assets/minecraft/models/custom/entities/player/right_leg.json",
+    "resource pack/assets/minecraft/models/custom/entities/player/slim_left.json",
+    "resource pack/assets/minecraft/models/custom/entities/player/slim_right.json",
+    "resource pack/assets/minecraft/models/custom/entities/player/torso.json",
+    "resource pack/assets/minecraft/models/item/player_head.json",
+    "resource pack/assets/minecraft/shaders/core/rendertype_entity_translucent.fsh",
+    "resource pack/assets/minecraft/shaders/core/rendertype_entity_translucent.json",
+    "resource pack/assets/minecraft/shaders/core/rendertype_entity_translucent.vsh",
+    "resource pack/assets/minecraft/shaders/include/player_shader.glsl",
+    "resource pack/assets/modelengine/items/lesgo/a.json",
+    "resource pack/assets/modelengine/items/lesgo/a2.json",
+    "resource pack/assets/modelengine/items/lesgo/aa.json",
+    "resource pack/assets/modelengine/items/lesgo/body2.json",
+    "resource pack/assets/modelengine/items/lesgo/c.json",
+    "resource pack/assets/modelengine/items/lesgo/close_terminator.json",
+    "resource pack/assets/modelengine/items/lesgo/close_terminator2.json",
+    "resource pack/assets/modelengine/items/lesgo/close_terminator3.json",
+    "resource pack/assets/modelengine/items/lesgo/close_terminator4.json",
+    "resource pack/assets/modelengine/items/lesgo/d.json",
+    "resource pack/assets/modelengine/items/lesgo/dangit.json",
+    "resource pack/assets/modelengine/items/lesgo/dungeons-skull.json",
+    "resource pack/assets/modelengine/items/lesgo/e.json",
+    "resource pack/assets/modelengine/items/lesgo/e2.json",
+    "resource pack/assets/modelengine/items/lesgo/head2.json",
+    "resource pack/assets/modelengine/items/lesgo/i.json",
+    "resource pack/assets/modelengine/items/lesgo/i2.json",
+    "resource pack/assets/modelengine/items/lesgo/island.json",
+    "resource pack/assets/modelengine/items/lesgo/l.json",
+    "resource pack/assets/modelengine/items/lesgo/l2.json",
+    "resource pack/assets/modelengine/items/lesgo/l3.json",
+    "resource pack/assets/modelengine/items/lesgo/leason.json",
+    "resource pack/assets/modelengine/items/lesgo/left_arm.json",
+    "resource pack/assets/modelengine/items/lesgo/left_leg.json",
+    "resource pack/assets/modelengine/items/lesgo/m.json",
+    "resource pack/assets/modelengine/items/lesgo/n.json",
+    "resource pack/assets/modelengine/items/lesgo/o.json",
+    "resource pack/assets/modelengine/items/lesgo/o2.json",
+    "resource pack/assets/modelengine/items/lesgo/o3.json",
+    "resource pack/assets/modelengine/items/lesgo/open_terminator.json",
+    "resource pack/assets/modelengine/items/lesgo/open_terminator2.json",
+    "resource pack/assets/modelengine/items/lesgo/open_terminator3.json",
+    "resource pack/assets/modelengine/items/lesgo/open_terminator4.json",
+    "resource pack/assets/modelengine/items/lesgo/r.json",
+    "resource pack/assets/modelengine/items/lesgo/right_arm.json",
+    "resource pack/assets/modelengine/items/lesgo/right_leg.json",
+    "resource pack/assets/modelengine/items/lesgo/s.json",
+    "resource pack/assets/modelengine/items/lesgo/season.json",
+    "resource pack/assets/modelengine/items/lesgo/seasssson.json",
+    "resource pack/assets/modelengine/items/lesgo/space.json",
+    "resource pack/assets/modelengine/items/lesgo/space2.json",
+    "resource pack/assets/modelengine/items/lesgo/stop.json",
+    "resource pack/assets/modelengine/items/lesgo/sword.json",
+    "resource pack/assets/modelengine/items/lesgo/t.json",
+    "resource pack/assets/modelengine/items/lesgo/v.json",
+    "resource pack/assets/modelengine/items/lesgo/valoria.json",
+    "resource pack/assets/modelengine/items/lesgo/w.json",
+    "resource pack/assets/modelengine/items/lesgo/welcome_to.json",
+    "resource pack/assets/modelengine/models/lesgo/a.json",
+    "resource pack/assets/modelengine/models/lesgo/a2.json",
+    "resource pack/assets/modelengine/models/lesgo/aa.json",
+    "resource pack/assets/modelengine/models/lesgo/body2.json",
+    "resource pack/assets/modelengine/models/lesgo/c.json",
+    "resource pack/assets/modelengine/models/lesgo/close_terminator.json",
+    "resource pack/assets/modelengine/models/lesgo/close_terminator2.json",
+    "resource pack/assets/modelengine/models/lesgo/close_terminator3.json",
+    "resource pack/assets/modelengine/models/lesgo/close_terminator4.json",
+    "resource pack/assets/modelengine/models/lesgo/d.json",
+    "resource pack/assets/modelengine/models/lesgo/dangit.json",
+    "resource pack/assets/modelengine/models/lesgo/dungeons-skull.json",
+    "resource pack/assets/modelengine/models/lesgo/e.json",
+    "resource pack/assets/modelengine/models/lesgo/e2.json",
+    "resource pack/assets/modelengine/models/lesgo/head2.json",
+    "resource pack/assets/modelengine/models/lesgo/i.json",
+    "resource pack/assets/modelengine/models/lesgo/i2.json",
+    "resource pack/assets/modelengine/models/lesgo/island.json",
+    "resource pack/assets/modelengine/models/lesgo/l.json",
+    "resource pack/assets/modelengine/models/lesgo/l2.json",
+    "resource pack/assets/modelengine/models/lesgo/l3.json",
+    "resource pack/assets/modelengine/models/lesgo/leason.json",
+    "resource pack/assets/modelengine/models/lesgo/left_arm.json",
+    "resource pack/assets/modelengine/models/lesgo/left_leg.json",
+    "resource pack/assets/modelengine/models/lesgo/m.json",
+    "resource pack/assets/modelengine/models/lesgo/n.json",
+    "resource pack/assets/modelengine/models/lesgo/o.json",
+    "resource pack/assets/modelengine/models/lesgo/o2.json",
+    "resource pack/assets/modelengine/models/lesgo/o3.json",
+    "resource pack/assets/modelengine/models/lesgo/open_terminator.json",
+    "resource pack/assets/modelengine/models/lesgo/open_terminator2.json",
+    "resource pack/assets/modelengine/models/lesgo/open_terminator3.json",
+    "resource pack/assets/modelengine/models/lesgo/open_terminator4.json",
+    "resource pack/assets/modelengine/models/lesgo/r.json",
+    "resource pack/assets/modelengine/models/lesgo/right_arm.json",
+    "resource pack/assets/modelengine/models/lesgo/right_leg.json",
+    "resource pack/assets/modelengine/models/lesgo/s.json",
+    "resource pack/assets/modelengine/models/lesgo/season.json",
+    "resource pack/assets/modelengine/models/lesgo/seasssson.json",
+    "resource pack/assets/modelengine/models/lesgo/space.json",
+    "resource pack/assets/modelengine/models/lesgo/space2.json",
+    "resource pack/assets/modelengine/models/lesgo/stop.json",
+    "resource pack/assets/modelengine/models/lesgo/sword.json",
+    "resource pack/assets/modelengine/models/lesgo/t.json",
+    "resource pack/assets/modelengine/models/lesgo/v.json",
+    "resource pack/assets/modelengine/models/lesgo/valoria.json",
+    "resource pack/assets/modelengine/models/lesgo/w.json",
+    "resource pack/assets/modelengine/models/lesgo/welcome_to.json",
+    "resource pack/assets/modelengine/textures/entity/2023_04_16_entop--variant--x2--21523059.png",
+    "resource pack/assets/modelengine/textures/entity/dungeons-skull.png",
+    "resource pack/assets/modelengine/textures/entity/island.png",
+    "resource pack/assets/modelengine/textures/entity/s2.png",
+    "resource pack/assets/modelengine/textures/entity/sword.png",
+    "resource pack/assets/modelengine/textures/entity/valooria.png",
+    "resource pack/assets/modelengine/textures/entity/welcome.png",
+    "resource pack/pack.mcmeta",
+    "resource pack/pack.png"
+  ]
+}
